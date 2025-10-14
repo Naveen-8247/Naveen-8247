@@ -41,7 +41,7 @@ I build modern, responsive web applications with clean UI and smooth UX. Passion
 ### 3. 💼 Jobby App (Job Portal)
 - **Description:** Job portal with search/filter, protected routes, responsive UI & dynamic API integration  
 - **Screenshot:** ![Jobby App](https://via.placeholder.com/300x150)  
-- **Live Demo:** [Link](#)  
+- **Live Demo:** [Link](https://dyavarjobsearch.ccbp.tech)  
 - **GitHub Repo:** [Repo](https://github.com/Naveen-8247/Jobby-App)
 
 ---
@@ -49,7 +49,7 @@ I build modern, responsive web applications with clean UI and smooth UX. Passion
 ### 4. 🍴 Tasty Kitchens (Food Delivery App)
 - **Description:** Online food ordering app with restaurant details, cart & responsive design  
 - **Screenshot:** ![Tasty Kitchens](https://via.placeholder.com/300x150)  
-- **Live Demo:** [Link](#)  
+- **Live Demo:** [Link](https://dyavarkitchens.ccbp.tech)  
 - **GitHub Repo:** [Repo](https://github.com/Naveen-8247/Tasty-Kitchens)
 
 ---
