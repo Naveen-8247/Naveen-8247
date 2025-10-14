@@ -45,7 +45,7 @@ I build modern, responsive web applications with clean UI and smooth UX. Passion
 - **Description:** Job portal with search/filter, protected routes, responsive UI & dynamic API integration  
 - **Screenshot:** ![Jobby App](https://via.placeholder.com/300x150)  
 - **Live Demo:** [Link](https://dyavarjobsearch.ccbp.tech)  
-- **GitHub Repo:** [Repo](https://github.com/Naveen-8247/Jobby-App)
+- **GitHub Repo:** [Repo](https://github.com/Naveen-8247/JobbyApp)
 
 ---
 
