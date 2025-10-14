@@ -53,7 +53,7 @@ I build modern, responsive web applications with clean UI and smooth UX. Passion
 - **Description:** Online food ordering app with restaurant details, cart & responsive design  
 - **Screenshot:** ![Tasty Kitchens](https://via.placeholder.com/300x150)  
 - **Live Demo:** [Link](https://dyavarkitchens.ccbp.tech)  
-- **GitHub Repo:** [Repo](https://github.com/Naveen-8247/Tasty-Kitchens)
+- **GitHub Repo:** [Repo](https://github.com/Naveen-8247/TastyKitchens)
 
 ---
 
