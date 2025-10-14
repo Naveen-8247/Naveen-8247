@@ -37,7 +37,7 @@ I build modern, responsive web applications with clean UI and smooth UX. Passion
 - **Description:** E-commerce platform with login, product pages & JWT authentication  
 - **Screenshot:** ![Nxt Trendz](https://via.placeholder.com/300x150)  
 - **Live Demo:** [Link](https://naveenstrends.ccbp.tech)  
-- **GitHub Repo:** [Repo](https://github.com/Naveen-8247/Nxt-Trendz)
+- **GitHub Repo:** [Repo](https://github.com/Naveen-8247/NxtTrendz-E-CommerceApplication)
 
 ---
 
