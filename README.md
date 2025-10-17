@@ -35,7 +35,7 @@ I build modern, responsive web applications with clean UI and smooth UX. Passion
 
 ### 2. 🛒 Nxt Trendz (E-commerce Clone)
 - **Description:** E-commerce platform with login, product pages & JWT authentication  
-- **Screenshot:** ![Nxt Trendz](https://via.placeholder.com/300x150)  
+- **Screenshot:** ![Nxt Trendz](https://res.cloudinary.com/dcy78sibl/image/upload/v1760720296/Screenshot_2025-10-17_222343_w2f8u1.png)
 - **Live Demo:** [Link](https://naveenstrends.ccbp.tech)  
 - **GitHub Repo:** [Repo](https://github.com/Naveen-8247/NxtTrendz-E-CommerceApplication)
 
@@ -43,7 +43,7 @@ I build modern, responsive web applications with clean UI and smooth UX. Passion
 
 ### 3. 💼 Jobby App (Job Portal)
 - **Description:** Job portal with search/filter, protected routes, responsive UI & dynamic API integration  
-- **Screenshot:** ![Jobby App](https://via.placeholder.com/300x150)  
+- **Screenshot:** ![Jobby App](https://res.cloudinary.com/dcy78sibl/image/upload/v1760718270/Screenshot_2025-10-17_215029_gdozvu.png) 
 - **Live Demo:** [Link](https://dyavarjobsearch.ccbp.tech)  
 - **GitHub Repo:** [Repo](https://github.com/Naveen-8247/JobbyApp)
 
@@ -51,7 +51,7 @@ I build modern, responsive web applications with clean UI and smooth UX. Passion
 
 ### 4. 🍴 Tasty Kitchens (Food Delivery App)
 - **Description:** Online food ordering app with restaurant details, cart & responsive design  
-- **Screenshot:** ![Tasty Kitchens](https://via.placeholder.com/300x150)  
+- **Screenshot:** ![Tasty Kitchens](https://res.cloudinary.com/dcy78sibl/image/upload/v1760719148/Screenshot_2025-10-17_220333_wwj1zi.png)  
 - **Live Demo:** [Link](https://dyavarkitchens.ccbp.tech)  
 - **GitHub Repo:** [Repo](https://github.com/Naveen-8247/TastyKitchens)
 
