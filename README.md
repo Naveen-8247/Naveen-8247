@@ -24,7 +24,7 @@ I build modern, responsive web applications with clean UI and smooth UX. Passion
 
 ### 1. 💼 Customer Management System
 - **Description:** Full-stack platform with authentication, role-based access, CRUD operations & seamless UI/UX  
-- **Screenshot:** ![CMS](https://via.placeholder.com/300x150)  
+- **Screenshot:** ![CMS](https://res.cloudinary.com/dcy78sibl/image/upload/v1760717109/Screenshot_2025-10-17_213456_febeqd.png) 
 - **Live Demo:** [Link](https://customer-managemrnt-app-client.vercel.app)
 - **Demo Credentials:**  
 - **User:** user / user123  
